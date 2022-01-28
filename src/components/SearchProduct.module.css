@@ -1,0 +1,7 @@
+.top-search-bar {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid gray;
+  height: 40px;
+  padding: 0 1rem;
+}
